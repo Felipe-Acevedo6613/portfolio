@@ -161,7 +161,7 @@ Features:
 # 🌎 Languages
 
 - 🇪🇸 Spanish (Native)
-- 🇫🇷 French (Intermediate)
+- 🇫🇷 French (Advanced)
 - 🇬🇧 English (Intermediate)
 
 ---
@@ -176,4 +176,4 @@ GitHub:
 https://github.com/Felipe-Acevedo6613
 
 LinkedIn:
-(Add your LinkedIn profile)
+www.linkedin.com/in/felipeaceved0
