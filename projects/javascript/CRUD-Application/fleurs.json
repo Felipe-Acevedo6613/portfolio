@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "nom": "Rose",
+    "categorie": "Fleur coupée",
+    "couleur": "Rouge",
+    "prix": 2.5
+  },
+  {
+    "id": 2,
+    "nom": "Tulipe",
+    "categorie": "Fleur coupée",
+    "couleur": "Jaune",
+    "prix": 1.5
+  },
+  {
+    "id": 3,
+    "nom": "Marguerite",
+    "categorie": "Fleur sauvage",
+    "couleur": "Blanc",
+    "prix": 0.8
+  },
+  {
+    "id": 4,
+    "nom": "Tournesol",
+    "categorie": "Fleur de jardin",
+    "couleur": "Jaune",
+    "prix": 1.2
+  },
+  {
+    "id": 5,
+    "nom": "Orchidée",
+    "categorie": "Fleur exotique",
+    "couleur": "Violet",
+    "prix": 3.5
+  },
+  {
+    "id": 6,
+    "nom": "Lys",
+    "categorie": "Fleur coupée",
+    "couleur": "Blanc",
+    "prix": 3
+  },
+  {
+    "id": 7,
+    "nom": "Géranium",
+    "categorie": "Fleur de balcon",
+    "couleur": "Rose",
+    "prix": 1
+  },
+  {
+    "id": 8,
+    "nom": "Dahlia",
+    "categorie": "Fleur de jardin",
+    "couleur": "Rouge",
+    "prix": 2
+  },
+  {
+    "id": 9,
+    "nom": "Pivoine",
+    "categorie": "Fleur de jardin",
+    "couleur": "Rose",
+    "prix": 2.8
+  },
+  {
+    "id": 10,
+    "nom": "Bleuet",
+    "categorie": "Fleur sauvage",
+    "couleur": "Bleu",
+    "prix": 1
+  },
+  {
+    "id": 11,
+    "nom": "Iris",
+    "categorie": "Fleur de jardin",
+    "couleur": "Violet",
+    "prix": 1.5
+  },
+  {
+    "id": 12,
+    "nom": "Coquelicot",
+    "categorie": "Fleur sauvage",
+    "couleur": "Rouge",
+    "prix": 0.7
+  },
+  {
+    "id": 13,
+    "nom": "Jasmin",
+    "categorie": "Fleur grimpante",
+    "couleur": "Blanc",
+    "prix": 2.2
+  },
+  {
+    "id": 14,
+    "nom": "Lavande",
+    "categorie": "Fleur de jardin",
+    "couleur": "Violet",
+    "prix": 1.3
+  },
+  {
+    "id": 15,
+    "nom": "Hortensia",
+    "categorie": "Fleur de jardin",
+    "couleur": "Bleu",
+    "prix": 2.6
+  },
+  {
+    "id": 16,
+    "nom": "Violette",
+    "categorie": "Fleur sauvage",
+    "couleur": "Violet",
+    "prix": 0.9
+  },
+  {
+    "id": 17,
+    "nom": "Chrysanthème",
+    "categorie": "Fleur coupée",
+    "couleur": "Jaune",
+    "prix": 1.8
+  },
+  {
+    "id": 18,
+    "nom": "Freesia",
+    "categorie": "Fleur coupée",
+    "couleur": "Blanc",
+    "prix": 2.3
+  },
+  {
+    "id": 19,
+    "nom": "Anémone",
+    "categorie": "Fleur de jardin",
+    "couleur": "Rouge",
+    "prix": 1.7
+  },
+  {
+    "id": 20,
+    "nom": "Camélia",
+    "categorie": "Fleur de jardin",
+    "couleur": "Rose",
+    "prix": 3.1
+  }
+]

@@ -1,0 +1,15 @@
+.nav-perso{
+    background-color: aqua;
+    border: 1px solid #e9ecef;
+    padding: 0.5rem 1rem;
+    margin-bottom: 1rem;
+    color:darkolivegreen;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.navbar-brand{
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: blue;
+}

@@ -1,0 +1,18 @@
+{
+  "name": "examen1",
+  "version": "1.0.0",
+  "description": "Examen1 de node,express et json",
+  "scripts": {
+    "start": "node serveur.js",
+    "dev": "nodemon serveur.js"
+  },
+  "keywords": ["fleur","plante","jardin","nature"],
+  "author": "Votre nom",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
