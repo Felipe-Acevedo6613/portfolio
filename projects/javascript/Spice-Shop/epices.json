@@ -1,0 +1,182 @@
+[{
+    "id": 1,
+    "nom": "Gingembre moulu",
+    "type": "Épice",
+    "prix": "3.10",
+    "vendeur": "Épices du Monde",
+    "image": "/client/images/gingembre.jpeg",
+    "description": "Épice chaude et piquante, utilisée dans les pâtisseries, les marinades et les plats asiatiques."
+  },
+  {
+    "id": 2,
+    "nom": "Fenugrec moulu",
+    "type": "Épice",
+    "prix": "2.75",
+    "vendeur": "La Maison des Arômes",
+    "image": "/client/images/fenugrec.jpeg",
+    "description": "Épice amère et noisettée, utilisée dans les currys, les mélanges d'épices et pour faire du pain."
+  },
+  {
+    "id": 3,
+    "nom": "Piment de Cayenne",
+    "type": "Épice",
+    "prix": "3.50",
+    "vendeur": "Les Saveurs Exotiques",
+    "image": "/client/images/cayenne.jpeg",
+    "description": "Épice très piquante, utilisée pour relever les plats, les sauces et les marinades."
+  },
+  {
+    "id": 4,
+    "nom": "Clous de girofle moulus",
+    "type": "Épice",
+    "prix": "4.40",
+    "vendeur": "Au Poivre Sauvage",
+    "image": "/client/images/clous_de_girofle.jpeg",
+    "description": "Épice piquante et chaude, utilisée dans les plats mijotés, les desserts et pour l'assaisonnement des viandes."
+  },
+  {
+    "id": 5,
+    "nom": "Graines de fenouil",
+    "type": "Épice",
+    "prix": "3.00",
+    "vendeur": "Épices Traditionnelles",
+    "image": "/client/images/fenouil.jpeg",
+    "description": "Épice anisée et douce, utilisée dans les plats de poisson, les sauces et les saucisses."
+  },
+  {
+    "id": 6,
+    "nom": "Graines de moutarde",
+    "type": "Épice",
+    "prix": "2.90",
+    "vendeur": "Épices du Monde",
+    "image": "/client/images/moutarde.jpeg",
+    "description": "Épice piquante et rustique, utilisée dans la préparation de condiments et pour assaisonner les plats."
+  },
+  {
+    "id": 7,
+    "nom": "Piment doux",
+    "type": "Épice",
+    "prix": "3.25",
+    "vendeur": "La Maison des Arômes",
+    "image": "/client/images/piment_doux.jpeg",
+    "description": "Épice légèrement piquante et sucrée, utilisée dans les plats mijotés et les sauces."
+  },
+  {
+    "id": 8,
+    "nom": "Anis étoilé",
+    "type": "Épice",
+    "prix": "5.50",
+    "vendeur": "Les Saveurs Exotiques",
+    "image": "/client/images/anis_etoile.jpeg",
+    "description": "Épice douce avec un goût rappelant la réglisse, utilisée dans les plats sucrés et salés, et pour aromatiser les boissons."
+  },
+  {
+    "id": 9,
+    "nom": "Grains de paradis",
+    "type": "Épice",
+    "prix": "6.20",
+    "vendeur": "Au Poivre Sauvage",
+    "image": "/client/images/grains_de_paradis.jpeg",
+    "description": "Épice africaine au goût poivré et légèrement citronné, utilisée dans les plats mijotés et les marinades."
+  },
+  {
+    "id": 10,
+    "nom": "Sumac",
+    "type": "Épice",
+    "prix": "3.80",
+    "vendeur": "Épices Traditionnelles",
+    "image": "/client/images/sumac.jpeg",
+    "description": "Épice acide et fruitée, utilisée dans la cuisine moyen-orientale, pour assaisonner les salades, les viandes et les poissons."
+  },
+  {
+    "id": 11,
+    "nom": "Ras el hanout",
+    "type": "Épice",
+    "prix": "4.50",
+    "vendeur": "Épices du Monde",
+    "image": "/client/images/gingembre.jpeg",
+    "description": "Mélange d'épices nord-africain, utilisé dans les tajines, les soupes et les plats de riz."
+  },
+  {
+    "id": 12,
+    "nom": "Herbes de Provence",
+    "type": "Mélange d'épices",
+    "prix": "3.35",
+    "vendeur": "La Maison des Arômes",
+    "image": "/client/images/herbes_de_provence.jpeg",
+    "description": "Mélange d'herbes aromatiques typique de la cuisine française, \nutilisé pour les grillades, les ragoûts et les légumes."
+  },
+  {
+    "id": 13,
+    "nom": "Poudre de chili",
+    "type": "Mélange d'épices",
+    "prix": "3.60",
+    "vendeur": "Les Saveurs Exotiques",
+    "image": "/client/images/poudre_de_chili.jpeg",
+    "description": "Mélange d'épices piquant, utilisé dans la préparation du chili con carne et d'autres plats tex-mex."
+  },
+  {
+    "id": 14,
+    "nom": "Curry en poudre",
+    "type": "Mélange d'épices",
+    "prix": "3.95",
+    "vendeur": "Au Poivre Sauvage",
+    "image": "/client/images/poudre_de_chili.jpeg",
+    "description": "Mélange d'épices indien, utilisé dans les currys, les soupes et comme assaisonnement."
+  },
+  {
+    "id": 15,
+    "nom": "Cinq-épices chinois",
+    "type": "Mélange d'épices",
+    "prix": "4.10",
+    "vendeur": "Épices Traditionnelles",
+    "image": "/client/images/cinq_epices.jpeg",
+    "description": "Mélange d'épices utilisé dans la cuisine chinoise, idéal pour mariner les viandes et parfumer les plats mijotés."
+  },
+  {
+    "id": 16,
+    "nom": "Garam masala",
+    "type": "Mélange d'épices",
+    "prix": "4.25",
+    "vendeur": "Épices du Monde",
+    "image": "/client/images/garam_masala.jpeg",
+    "description": "Mélange d'épices chauffant, utilisé dans les plats indiens pour ajouter de la profondeur et de la chaleur."
+  },
+  {
+    "id": 17,
+    "nom": "Thym séché",
+    "type": "Herbe",
+    "prix": "2.65",
+    "vendeur": "La Maison des Arômes",
+    "image": "/client/images/thym.jpeg",
+    "description": "Herbe aromatique, utilisée dans les ragoûts, les bouillons et pour assaisonner les légumes."
+  },
+  {
+    "id": 18,
+    "nom": "Romarin séché",
+    "type": "Herbe",
+    "prix": "2.75",
+    "vendeur": "Les Saveurs Exotiques",
+    "image": "/client/images/romarin.jpeg",
+    "description": "Herbe boisée et parfumée, utilisée dans les plats de viande, les soupes et les pommes de terre."
+  },
+  {
+    "id": 19,
+    "nom": "Basilic séché",
+    "type": "Herbe",
+    "prix": "2.85",
+    "vendeur": "Au Poivre Sauvage",
+    "image": "/client/images/basilic.jpeg",
+    "description": "Herbe douce et légèrement poivrée, utilisée dans les sauces, les salades et les plats de pâtes."
+  },
+  {
+    "id": 20,
+    "nom": "Origan séché",
+    "type": "Herbe",
+    "prix": "2.50",
+    "vendeur": "Épices Traditionnelles",
+    "image": "/client/images/origan.jpeg",
+    "description": "Herbe aromatique avec un goût piquant, utilisée dans la cuisine italienne, grecque et mexicaine."
+  }
+ ]
+ 

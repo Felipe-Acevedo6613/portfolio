@@ -1,0 +1,20 @@
+{
+  "name": "projetnodeexpresstypescript",
+  "version": "1.0.0",
+  "description": "Projet exemple node express typescript",
+  "scripts": {
+    "start": "ts-node serveur.ts",
+    "dev": "nodemon serveur.ts"
+  },
+  "keywords": [],
+  "author": "Felipe acevedo et Paula Rosero",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1"
+  },
+  "devDependencies": {
+    "@types/body-parser": "^1.19.5",
+    "@types/multer": "^1.4.11"
+  }
+}
