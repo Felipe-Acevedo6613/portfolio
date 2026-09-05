@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <TextView
+        android:id="@+id/textView_course_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:layout_marginStart="20dp"
+        android:text="Nom du cours"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_marginTop="15dp"/>
+
+    <ImageView
+        android:id="@+id/coursePic"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_below="@+id/textView_course_name"
+        app:srcCompat="@drawable/icons_book"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="7dp"/>
+
+    <TextView
+        android:id="@+id/sigleCourse"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sigle du cours"
+        android:layout_below="@+id/textView_course_name"
+        android:layout_toEndOf="@+id/coursePic"
+        android:layout_marginTop="5dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="20dp"
+        android:textSize="16sp"/>
+
+    <ImageView
+        android:id="@+id/teacherPic"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        app:srcCompat="@drawable/icons_teacher"
+        android:layout_below="@+id/sigleCourse"
+        android:layout_marginTop="5dp"
+        android:layout_marginStart="20dp"/>
+
+    <TextView
+        android:id="@+id/teacherText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enseignant"
+        android:layout_below="@id/sigleCourse"
+        android:layout_marginEnd="20dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="5dp"
+        android:layout_toEndOf="@id/teacherPic"/>
+
+
+
+
+</RelativeLayout>
